@@ -5,7 +5,7 @@ utilizing google's firebase realtime database for the backend, and... Google Dri
 
 
 ## Screenshots
-![Shot 1](Images/Musixx.png)
+![Shot 1](Images/Musixx1.png)
 
 
 ## Features
