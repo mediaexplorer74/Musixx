@@ -1,4 +1,4 @@
-# Musixx-1 ("FamilyHub" codename)
+# Musixx v1-pre-pre-alpha ("FamilyHub" codename)
 
 An attempt to create simple family music organizer app built with UWP philosophy, 
 utilizing google's firebase realtime database for the backend, and... Google Drive :)
